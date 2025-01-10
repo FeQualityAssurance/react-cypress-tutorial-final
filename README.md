@@ -1,3 +1,16 @@
+Summary:
+In this course, I gained hands-on experience in Behavior-Driven Development (BDD) using Cucumber and Gherkin. The curriculum covered key concepts and techniques, including:
+
+- Understanding the fundamentals of BDD and its role in Agile development.
+- Writing clear and concise feature files using Gherkin syntax.
+- Defining scenarios with Given, When, Then steps to describe system behavior.
+- Integrating Cucumber with testing frameworks like Java, JavaScript, or Ruby.
+- Running and managing automated BDD tests within a continuous integration pipeline.
+- Debugging and improving BDD scenarios for better clarity and maintainability.
+
+By the end of the course, I was able to create automated tests that enhance collaboration between developers, testers, and business stakeholders, improving the quality and reliability of software applications.
+
+More details: 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
