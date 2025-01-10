@@ -10,7 +10,7 @@ In this course, I gained practical experience in component testing_using_Cypress
 - Debugging test failures and resolving common issues in a real-world development environment.  
 - Implementing best practices to maintain scalable, modular, and reliable test cases across diverse components.  
 
-Through this hands-on experience, you not only deepened your understanding of component testing but also honed your skills with cutting-edge technologies like Next.js, React, Material-UI, and Cypress, ensuring your ability to deliver high-quality, reliable web applications.
+Through this hands-on experience, I not only deepened your understanding of component testing but also honed my skills with cutting-edge technologies like Next.js, React, Material-UI, and Cypress, ensuring my ability to deliver high-quality, reliable web applications.
 
 
 More details: 
